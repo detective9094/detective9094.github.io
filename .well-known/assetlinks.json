@@ -1,0 +1,42 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.linecorp.clovavision.vms.alpha",
+      "sha256_cert_fingerprints": [
+        "CD:A6:24:F1:29:74:17:5D:BB:FC:F4:B9:3B:09:0C:FB:97:45:DE:52:D8:12:BF:FF:3D:0C:BD:1D:08:86:CE:6C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.linecorp.clovavision.vms.beta",
+      "sha256_cert_fingerprints": [
+          "CD:A6:24:F1:29:74:17:5D:BB:FC:F4:B9:3B:09:0C:FB:97:45:DE:52:D8:12:BF:FF:3D:0C:BD:1D:08:86:CE:6C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.linecorp.clovavision.vms.rc",
+      "sha256_cert_fingerprints": [
+          "CD:A6:24:F1:29:74:17:5D:BB:FC:F4:B9:3B:09:0C:FB:97:45:DE:52:D8:12:BF:FF:3D:0C:BD:1D:08:86:CE:6C"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.linecorp.clovavision.vms",
+      "sha256_cert_fingerprints": [
+          "CD:A6:24:F1:29:74:17:5D:BB:FC:F4:B9:3B:09:0C:FB:97:45:DE:52:D8:12:BF:FF:3D:0C:BD:1D:08:86:CE:6C"
+      ]
+    }
+  }
+]
