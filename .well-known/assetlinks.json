@@ -5,8 +5,8 @@
       "namespace": "android_app",
       "package_name": "com.linecorp.clovavision.vms.alpha",
       "sha256_cert_fingerprints": [
-        "CD:A6:24:F1:29:74:17:5D:BB:FC:F4:B9:3B:09:0C:FB:97:45:DE:52:D8:12:BF:FF:3D:0C:BD:1D:08:86:CE:6C",
-        "99:4D:93:8D:18:B9:BF:80:FB:54:41:1B:7C:10:01:78:31:A7:33:B8:20:4B:14:AD:A9:74:9F:38:98:5D:DF:1F"
+        "99:4D:93:8D:18:B9:BF:80:FB:54:41:1B:7C:10:01:78:31:A7:33:B8:20:4B:14:AD:A9:74:9F:38:98:5D:DF:1F",
+        "CD:A6:24:F1:29:74:17:5D:BB:FC:F4:B9:3B:09:0C:FB:97:45:DE:52:D8:12:BF:FF:3D:0C:BD:1D:08:86:CE:6C"
       ]
     }
   }
